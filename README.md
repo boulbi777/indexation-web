@@ -20,4 +20,4 @@ transformer les chiffres d'un document en lettre (1000 --> 'one thousand')
 - Vectorisation, TFDIDF et autres modèles pour le ranking des résultats
 
 ## Application
-Le fichier **indexation.py** dans le fichier "Application" permet de lancer une interface pour tester en temps réel le projet. Il suffit de lancer `python indexation.py` dans un terminal pour démérrer le moteur de recherche sous forme d'interface où la navigation est gérée grâce aux directions du clavier. Enjoy 😃 !
+Le fichier **indexation.py** dans le dossier "Application" permet de lancer une interface pour tester en temps réel le projet. Il suffit de lancer `python indexation.py` dans un terminal pour démérrer le moteur de recherche sous forme d'interface où la navigation est gérée grâce aux directions du clavier. Enjoy 😃 !
